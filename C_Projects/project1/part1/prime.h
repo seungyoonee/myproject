@@ -1,2 +1,0 @@
-int prime(int x);
-
